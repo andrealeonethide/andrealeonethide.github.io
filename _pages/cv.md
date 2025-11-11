@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Sciences and Disorders, James Madison University, 2000
+* M.S. in Speech-Language Pathology, Teachers College, Columbia University, 2002
+* Ph.D in Communicative Sciences and Disorders, New York University, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - present: Research Assistant
+  * PyschoLinguistics Aphasia and Neuromodulation Research Lab
+  * Principal Investigator: Adam Buchwald, Ph.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2008 - present: Adjunct Lecturer; Hunter College
+* 2018 - 2022: Adjunct Instructor; New York University
+* 2018 - 2021: Clinical Immersion and Clinical Field Placement Administrator New York University
+* 2008 - 2014: Director of Speech-Language Pathology, Bronx Lebanon Hospital Center
+* 2004 - 2008: Speech-Language Pathologist, Montefiore Medical Center
+* 2002 - 2004: Speech-Language Pathologist, Staten Island University Hospital
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

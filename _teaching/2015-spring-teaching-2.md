@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Hunter College"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Adjunct Lecturer"
+date: 2008-09-06
+location: "New York, NY"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+**Department of Speech-Language Pathology & Audiology** (master's program) <br> 
+Assessment and Management of Dysphagia Across the Lifespan (4 credits)
 
 Heading 1
 ======
