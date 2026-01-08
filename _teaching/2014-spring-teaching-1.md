@@ -16,8 +16,9 @@ Motor Speech Disorders (3 credits)<br>
 
 **Communicative Sciences and Disorders** (undergraduate program)<br>
 *Teaching Assistant*
-Talking Brain (3 credits)
-Neuroanatomy and Physiology of Communication (3 credits)
+Talking Brain (3 credits)<br>
+Neuroanatomy and Physiology of Communication (3 credits)<br>
+
 
 **Speech@NYU** (online master's program) <br> 
 Anatomy and Physiology of the Speech and Swallowing Mechanism (2 credits)<br>
