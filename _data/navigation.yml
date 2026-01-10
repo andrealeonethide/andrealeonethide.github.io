@@ -7,4 +7,5 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /Users/andrealeone-thide/Documents/Employment/website/andrealeonethide.github.io/files/CV_2025-2026.pdf
+    target: _blank
